@@ -1,0 +1,85 @@
+
+*{
+    margin: 0 0 0 0;
+}
+
+button{
+    color: white;
+    background-color: rgb(70, 70, 225);
+    float: left;
+    width: 100px;
+    border: solid rgb(70, 70, 225);
+    
+}
+
+img { 
+    width: 150px;
+   
+}
+.p-one{
+    font-size: 15px;
+    font-weight: bold;
+    
+    
+}
+.p-tow{
+   font-size: 10px; 
+}
+.p-four{
+    text-decoration: line-through;
+    color: red;
+    font-size: small;
+    
+}
+.p-three{
+    color: green;
+}
+.p-three{
+    float: left;
+}
+.clearfix{
+    clear:left
+}
+.product-2{
+   
+    float: left; 
+  width: 190px;
+  border: solid gray;
+  margin: 0 0 10px 10px;
+  
+  
+}
+.products{
+    width: 100%;
+}
+div h1{
+    margin-bottom: 10px;
+}
+.product-1{
+    
+    
+    width: 900px;
+    height: 175px;
+
+}
+
+.fa-regular {
+    color: rgb(77, 77, 233);
+    width: 29px;
+    height: 16.01px;
+    text-align: center;
+    border:2px solid rgb(111, 77, 233);
+    margin-left: 10px;
+}
+.fa-solid fa-bag-shopping {
+    color: white;
+}
+.soso{
+    
+    width: 170px;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+}
+
